@@ -31,18 +31,18 @@ languages for different applications: Excel tables, program testing, and approxi
 **Time:** TBD.
 **Room:** Most sessions will take place online (https://some-video-call-link), and room XXX at ITU.
 
-| Session | Topic                                                                             | Reading    | Session leader |
-|---------|-----------------------------------------------------------------------------------|------------|----------------|
-| 1       | Semantics of Probabilistic Programming: A Gentle Introduction                     | Chapter 1  | TBD            |
-| 2       |                                                                                   |            | TBD            |
-| 3       | Probabilistic Programs as Measures                                                | Chapter 2  | TBD            |
-| 4       |                                                                                   |            | TBD            |
-| 5       | Probabilistic λ-Calculi                                                           | Chapter 4  | TBD            |
-| 6       | Probabilistic Couplings from Program Logics                                       | Chapter 5  | TBD            |
-| 7       | Expected Runtime Analysis by Program Verification                                 | Chapter 6  | TBD            |
-| 8       |                                                                                   |            | TBD            |
-| 9       | Termination Analysis of Probabilistic Programs with Martingales                   | Chapter 7  | TBD            |
-| 10      |                                                                                   |            | TBD            |
-| 11      | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy | Chapter 11 | TBD            |
-| 12      |                                                                                   |            | TBD            |
+| Session | Topic                                                                                      | Reading    | Session leader |
+|---------|--------------------------------------------------------------------------------------------|------------|----------------|
+| 1       | Semantics of Probabilistic Programming: A Gentle Introduction (part 1)                     | Chapter 1  | TBD            |
+| 2       | Semantics of Probabilistic Programming: A Gentle Introduction (part 2)                     | Chapter 1  | TBD            |
+| 3       | Probabilistic Programs as Measures (part 1)                                                | Chapter 2  | TBD            |
+| 4       | Probabilistic Programs as Measures (part 2)                                                | Chapter 2  | TBD            |
+| 5       | Probabilistic λ-Calculi                                                                    | Chapter 4  | TBD            |
+| 6       | Probabilistic Couplings from Program Logics                                                | Chapter 5  | TBD            |
+| 7       | Expected Runtime Analysis by Program Verification (part 1)                                 | Chapter 6  | TBD            |
+| 8       | Expected Runtime Analysis by Program Verification (part 2)                                 | Chapter 6  | TBD            |
+| 9       | Termination Analysis of Probabilistic Programs with Martingales (part 1)                   | Chapter 7  | TBD            |
+| 10      | Termination Analysis of Probabilistic Programs with Martingales (part 2)                   | Chapter 7  | TBD            |
+| 11      | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 1) | Chapter 11 | TBD            |
+| 12      | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 2) | Chapter 11 | TBD            |
 	
