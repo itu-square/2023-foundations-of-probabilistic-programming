@@ -2,6 +2,10 @@
 
 Website of the PhD course on Foundations of Probabilistic Programming at IT University of Copenhagen, Spring 2023.
 
+#### How to sign up in the course
+- Send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari) including your affiliation, PhD supervisor’s name, title of the PhD project, and a 100 word summary of the PhD project. Include your PhD supervisor (CC) in the email. **Deadline for signing-up: 15 January 2022**.
+
+
 ## Course description
 
 What does a probabilistic program actually compute? How can one formally reason about such
@@ -19,6 +23,7 @@ languages for different applications: Excel tables, program testing, and approxi
 * [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
 * [Andrzej Wąsowski](http://www.itu.dk/people/wasowski/), IT University of Copenhagen
 * [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari), IT University of Copenhagen
+
 
 ## Lecturers / Coordinators
 * [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
