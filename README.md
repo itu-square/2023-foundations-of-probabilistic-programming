@@ -16,20 +16,20 @@ languages for different applications: Excel tables, program testing, and approxi
 (credits: The above description is adapted from the kappa)
 
 ## Organizers
-[Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
-[Andrzej Wąsowski](http://www.itu.dk/people/wasowski/), IT University of Copenhagen
-[Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari), IT University of Copenhagen
+* [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
+* [Andrzej Wąsowski](http://www.itu.dk/people/wasowski/), IT University of Copenhagen
+* [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari), IT University of Copenhagen
 
 ## Lecturers / Coordinators
-[Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
-[Andrzej Wąsowski](http://www.itu.dk/people/wasowski/), IT University of Copenhagen
+* [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
+* [Andrzej Wąsowski](http://www.itu.dk/people/wasowski/), IT University of Copenhagen
 
 
 ## Schedule
 
-**Dates of the course:** Start in week 4 (Tentative)
-**Time:** TBD.
-**Room:** Most sessions will take place online (https://some-video-call-link), and room XXX at ITU.
+* **Dates of the course:** Start in week 4 (Tentative)
+* **Time:** TBD.
+* **Room:** Most sessions will take place online (https://some-video-call-link), and room XXX at ITU.
 
 | Session | Topic                                                                                      | Reading    | Session leader |
 |---------|--------------------------------------------------------------------------------------------|------------|----------------|
