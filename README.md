@@ -17,17 +17,6 @@ What does a probabilistic program actually compute? How can one formally reason 
 
 *(Credits: The above description is adapted from the kappa)*
 
-## Organizers
-* [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
-* [Andrzej Wąsowski](http://www.itu.dk/people/wasowski/), IT University of Copenhagen
-* [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari), IT University of Copenhagen
-
-
-## Lecturers / Coordinators
-* [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
-* [Andrzej Wąsowski](http://www.itu.dk/people/wasowski/), IT University of Copenhagen
-
-
 ## Schedule
 
 The table below shows the (tentative) schedule of the course, which is composed by 12 sessions. The topics may change based on the discussions and interest of the participants.
@@ -52,3 +41,13 @@ The table below shows the (tentative) schedule of the course, which is composed 
 | Apr 25       | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 1) | Chapter 11 | TBD            |
 | May  2       | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 2) | Chapter 11 | TBD            |
 	
+## Organizers
+* [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
+* [Andrzej Wąsowski](http://www.itu.dk/people/wasowski/), IT University of Copenhagen
+* [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari), IT University of Copenhagen
+
+*Feel free to send us any questions regarding the course.*
+
+## Lecturers / Coordinators
+* [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
+* [Andrzej Wąsowski](http://www.itu.dk/people/wasowski/), IT University of Copenhagen
