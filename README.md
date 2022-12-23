@@ -36,9 +36,9 @@ languages for different applications: Excel tables, program testing, and approxi
 
 The table below shows the (tentative) schedule of the course, which is composed by 12 sessions. The topics may change based on the discussions and interest of the participants.
 
-* **Dates of the course:** Start in week 4 (Tentative)
-* **Time:** TBD.
-* **Room:** Most sessions will take place online (https://some-video-call-link), and room XXX at ITU.
+* **Time:** Tuesdays at 13.00 - 14.00.
+* **Room:** Zoom (send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari) to the the link) 
+  - Room 4F03 at ITU.
 
 | Session Date | Topic                                                                                      | Reading    | Session leader |
 |--------------|--------------------------------------------------------------------------------------------|------------|----------------|
