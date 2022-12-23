@@ -34,7 +34,7 @@ The table below shows the (tentative) schedule of the course, which is composed 
 
 * **Time:** Tuesdays at 13:00 - 14:00.
 * **Online Room:** Zoom (send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari) to get the link)
-  - Room 4F03 at ITU *(We meet primarily online, but anyone physically at ITU is welcome in this room)*
+  - Room 4F03 at ITU *(We meet primarily online, but anyone physically at ITU is welcomed in this room)*
 
 | Session Date | Topic                                                                                      | Reading    | Session leader |
 |--------------|--------------------------------------------------------------------------------------------|------------|----------------|
