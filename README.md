@@ -3,9 +3,12 @@
 Website of the PhD course on Foundations of Probabilistic Programming at IT University of Copenhagen, Spring 2023.
 
 #### How to sign up in the course
-Send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari) including your affiliation, PhD supervisor’s name, title of the PhD project, and a 100 word summary of the PhD project. Include your PhD supervisor (CC) in the email. 
+
+Send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari) including your affiliation, PhD supervisor’s name, title of the PhD project, and a 100 word summary of the PhD project. Include your PhD supervisor (CC) in the email.
 
 * **Deadline for signing-up: 15 January 2023**.
+
+*The PhD school at IT University of Copenhagen grants 3 ECTS points for this course. To be eligible for the course PhD students must lead at least one of the sessions in the schedule below.*
 
 
 ## Course description
@@ -37,7 +40,7 @@ languages for different applications: Excel tables, program testing, and approxi
 The table below shows the (tentative) schedule of the course, which is composed by 12 sessions. The topics may change based on the discussions and interest of the participants.
 
 * **Time:** Tuesdays at 13.00 - 14.00.
-* **Room:** Zoom (send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari) to the the link) 
+* **Online Room:** Zoom (send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari) to get the link)
   - Room 4F03 at ITU.
 
 | Session Date | Topic                                                                                      | Reading    | Session leader |
