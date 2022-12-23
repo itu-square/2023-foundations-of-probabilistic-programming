@@ -13,16 +13,9 @@ Send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffar
 
 ## Course description
 
-What does a probabilistic program actually compute? How can one formally reason about such
-probabilistic programs? This course covers such elementary (i.e. foundational mathematical)
-questions. We give a state-of-the-art overview of the theoretical underpinnings of modern
-probabilistic programming and their applications in machine learning, security, and other domains,
-at a level suitable for graduate students using a recent text book by Barthe, Katoen, and Silva. The
-book treats the connection between probabilistic programs and mathematical logic, security (what
-is the probability that software leaks confidential information?), and presents three programming
-languages for different applications: Excel tables, program testing, and approximate computing.
+What does a probabilistic program actually compute? How can one formally reason about such probabilistic programs? This course covers such elementary (i.e. foundational mathematical) questions. We give a state-of-the-art overview of the theoretical underpinnings of modern probabilistic programming and their applications in machine learning, security, and other domains, at a level suitable for graduate students using a recent text book by Barthe, Katoen, and Silva. The book treats the connection between probabilistic programs and mathematical logic, security (what is the probability that software leaks confidential information?), and presents three programming languages for different applications: Excel tables, program testing, and approximate computing.
 
-(credits: The above description is adapted from the kappa)
+*(Credits: The above description is adapted from the kappa)*
 
 ## Organizers
 * [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
@@ -39,9 +32,9 @@ languages for different applications: Excel tables, program testing, and approxi
 
 The table below shows the (tentative) schedule of the course, which is composed by 12 sessions. The topics may change based on the discussions and interest of the participants.
 
-* **Time:** Tuesdays at 13.00 - 14.00.
+* **Time:** Tuesdays at 13:00 - 14:00.
 * **Online Room:** Zoom (send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari) to get the link)
-  - Room 4F03 at ITU.
+  - Room 4F03 at ITU *(We meet primarily online, but anyone physically at ITU is welcome in this room)*
 
 | Session Date | Topic                                                                                      | Reading    | Session leader |
 |--------------|--------------------------------------------------------------------------------------------|------------|----------------|
