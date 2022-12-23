@@ -17,9 +17,18 @@ What does a probabilistic program actually compute? How can one formally reason 
 
 *(Credits: The above description is adapted from the kappa)*
 
+## Course textbook
+
+Gilles Barthe. Joost-Pieter Katoen. Alexandra Silva. Foundations of Probabilistic Programming. Cambridge University Press, 2020.
+  * https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE
+
+This title is available Open Access from Cambridge University Press.
+
 ## Schedule
 
-The table below shows the (tentative) schedule of the course, which is composed by 12 sessions. The topics may change based on the discussions and interest of the participants.
+The table below shows the (tentative) schedule of the course, which is composed by 12 sessions. 
+The table specifies the topic/book chapter from the [textbook](#course-textbook) that we cover in each session.
+The topics may change based on the discussions and interest of the participants.
 
 * **Time:** Tuesdays at 13:00 - 14:00.
 * **Online Room:** Zoom (send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari) to get the link)
