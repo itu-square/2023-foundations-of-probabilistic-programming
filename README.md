@@ -2,6 +2,8 @@
 
 Website of the PhD course on Foundations of Probabilistic Programming at IT University of Copenhagen, Spring 2023.
 
+The course is organized as a reading group. Each week we discuss different topics and chapters of the book Foundations of Probabilistic Programming by Gilles Barthe, Joost-Pieter Katoen and Alexandra Silva. [See schedule](#schedule).
+
 #### How to sign up in the course
 
 Send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari) including: your affiliation, PhD supervisor’s name, title of the PhD project, and a 100 word summary of the PhD project. Include your PhD supervisor (CC) in the email.
