@@ -21,7 +21,7 @@ What does a probabilistic program actually compute? How can one formally reason 
 
 Gilles Barthe. Joost-Pieter Katoen. Alexandra Silva. Foundations of Probabilistic Programming. Cambridge University Press, 2020. [[Link](https://www.cambridge.org/core/books/foundations-of-probabilistic-programming/819623B1B5B33836476618AC0621F0EE)]
 
-The title is available Open Access from Cambridge University Press.
+*The title is available Open Access from Cambridge University Press.*
 
 ## Schedule
 
