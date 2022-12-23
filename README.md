@@ -8,7 +8,7 @@ Send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffar
 
 * **Deadline for signing-up: 15 January 2023**.
 
-<i>The PhD school at IT University of Copenhagen grants <u>3 ECTS points for this course</u>. To obtain the credits, students must lead at least one of the sessions in the [schedule below](#schedule).</i>
+*The PhD school at IT University of Copenhagen grants <b>3 ECTS points for this course</b>. To obtain the credits, students must lead at least one of the sessions in the [schedule below](#schedule).*
 
 
 ## Course description
