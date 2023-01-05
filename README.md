@@ -35,21 +35,21 @@ The topics may change based on the discussions and interest of the participants.
 * **Online Room:** Zoom (send an email to [Mohsen Ghaffari](https://pure.itu.dk/da/persons/mohsen-ghaffari) to get the link)
   - Room 4F03 at ITU *(We meet primarily online, but anyone physically at ITU is welcomed in this room)*
 
-| Session Date | Topic                                                                                      | Reading    | Session leader            |
-|--------------|--------------------------------------------------------------------------------------------|------------|---------------------------|
-| Feb 7        | Semantics of Probabilistic Programming: A Gentle Introduction (part 1)                     | Chapter 1  | TBD                       |
-| Feb 14       | Semantics of Probabilistic Programming: A Gentle Introduction (part 2)                     | Chapter 1  | TBD                       |
-| Feb 21       | Expected Runtime Analysis by Program Verification (part 1)                                 | Chapter 6  | Christoph Matheja (Guest) |
-| Feb 28       | Expected Runtime Analysis by Program Verification (part 2)                                 | Chapter 6  | TBD                       |
-| Mar 7        | Probabilistic Programs as Measures (part 1)                                                | Chapter 2  | TBD                       |
-| Mar 14       | Probabilistic Programs as Measures (part 2)                                                | Chapter 2  | TBD                       |
-| Mar 21       | Probabilistic λ-Calculi                                                                    | Chapter 4  | TBD                       |
-| Mar 28       | Probabilistic Couplings from Program Logics                                                | Chapter 5  | TBD                       |
-| Apr 4        | *No session*                                                                               |            |                           |
-| Apr 11       | Termination Analysis of Probabilistic Programs with Martingales (part 1)                   | Chapter 7  | TBD                       |
-| Apr 18       | Termination Analysis of Probabilistic Programs with Martingales (part 2)                   | Chapter 7  | TBD                       |
-| Apr 25       | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 1) | Chapter 11 | TBD                       |
-| May  2       | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 2) | Chapter 11 | TBD                       |
+| Session Date | Topic                                                                                      | Reading    | Session leader                    |
+|--------------|--------------------------------------------------------------------------------------------|------------|-----------------------------------|
+| Feb 7        | Semantics of Probabilistic Programming: A Gentle Introduction (part 1)                     | Chapter 1  | TBD                               |
+| Feb 14       | Semantics of Probabilistic Programming: A Gentle Introduction (part 2)                     | Chapter 1  | TBD                               |
+| Feb 21       | Expected Runtime Analysis by Program Verification (part 1)                                 | Chapter 6  | Christoph Matheja (Guest lecture) |
+| Feb 28       | Expected Runtime Analysis by Program Verification (part 2)                                 | Chapter 6  | TBD                               |
+| Mar 7        | Probabilistic Programs as Measures (part 1)                                                | Chapter 2  | TBD                               |
+| Mar 14       | Probabilistic Programs as Measures (part 2)                                                | Chapter 2  | TBD                               |
+| Mar 21       | Probabilistic λ-Calculi                                                                    | Chapter 4  | TBD                               |
+| Mar 28       | Probabilistic Couplings from Program Logics                                                | Chapter 5  | TBD                               |
+| Apr 4        | *No session*                                                                               |            |                                   |
+| Apr 11       | Termination Analysis of Probabilistic Programs with Martingales (part 1)                   | Chapter 7  | TBD                               |
+| Apr 18       | Termination Analysis of Probabilistic Programs with Martingales (part 2)                   | Chapter 7  | TBD                               |
+| Apr 25       | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 1) | Chapter 11 | TBD                               |
+| May  2       | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 2) | Chapter 11 | TBD                               |
 	
 ## Organizers
 * [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
