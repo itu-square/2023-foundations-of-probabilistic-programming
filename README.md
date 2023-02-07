@@ -37,8 +37,8 @@ The topics may change based on the discussions and interest of the participants.
 
 | Session Date | Topic                                                                                      | Reading    | Session leader                    |
 |--------------|--------------------------------------------------------------------------------------------|------------|-----------------------------------|
-| Feb 7        | Semantics of Probabilistic Programming: A Gentle Introduction (part 1)                     | Chapter 1  | Raúl Pardo                        |
-| Feb 14       | Semantics of Probabilistic Programming: A Gentle Introduction (part 2)                     | Chapter 1  | TBD                               |
+| Feb 7        | Semantics of Probabilistic Programming: A Gentle Introduction (part 1); [Why do random walks get lost in 3D](https://www.youtube.com/watch?v=byvEzyFgv44)                   | Chapter 1  | Raúl Pardo                        |
+| Feb 14       | Semantics of Probabilistic Programming: A Gentle Introduction (part 2)                     | Chapter 1  | Andrzej Wąsowski                               |
 | Feb 21       | Expected Runtime Analysis by Program Verification (part 1)                                 | Chapter 6  | Christoph Matheja (Guest lecture) |
 | Feb 28       | Expected Runtime Analysis by Program Verification (part 2)                                 | Chapter 6  | TBD                               |
 | Mar 7        | Probabilistic Programs as Measures (part 1)                                                | Chapter 2  | TBD                               |
