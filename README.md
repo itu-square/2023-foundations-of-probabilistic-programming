@@ -47,9 +47,11 @@ The topics may change based on the discussions and interest of the participants.
 | Mar 28       | Probabilistic Couplings from Program Logics                                                                                                               | Chapter 5  | Mohsen Ghaffari                   |
 | Apr 4        | *No session*                                                                                                                                              |            |                                   |
 | Apr 11       | Termination Analysis of Probabilistic Programs with Martingales (part 1)                                                                                  | Chapter 7  | Erik Voogd                        |
-| Apr 18       | Termination Analysis of Probabilistic Programs with Martingales (part 2)                                                                                  | Chapter 7  | TBD                               |
-| Apr 25       | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 1)                                                                | Chapter 11 | TBD                               |
-| May  2       | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 2)                                                                | Chapter 11 | TBD                               |
+| Apr 18       | **Cancelled**                                                                                                                                             |            |                                   |
+| Apr 25       | **Cancelled**                                                                                                                                             |            |                                   |
+| May 2        | Termination Analysis of Probabilistic Programs with Martingales (part 2)                                                                                  | Chapter 7  | TBD                               |
+| May 9        | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 1)                                                                | Chapter 11 | TBD                               |
+| May 16       | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 2)                                                                | Chapter 11 | TBD                               |
 	
 ## Organizers
 * [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
