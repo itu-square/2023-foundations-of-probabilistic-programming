@@ -50,8 +50,8 @@ The topics may change based on the discussions and interest of the participants.
 | Apr 18       | **Cancelled**                                                                                                                                             |            |                                   |
 | Apr 25       | **Cancelled**                                                                                                                                             |            |                                   |
 | May 2        | Termination Analysis of Probabilistic Programs with Martingales (part 2)                                                                                  | Chapter 7  | No leader                         |
-| May 9        | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 1)                                                                | Chapter 11 | TBD                               |
-| May 16       | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 2)                                                                | Chapter 11 | TBD                               |
+| May 9        | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 1)                                                                | Chapter 11 | No leader                         |
+| May 16       | Probabilistic Abstract Interpretation: Sound Inference and Application to Privacy (part 2)                                                                | Chapter 11 | No leader                         |
 	
 ## Organizers
 * [Raúl Pardo](http://raulpardo.net/), IT University of Copenhagen
